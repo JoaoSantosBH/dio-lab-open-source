@@ -1,5 +1,5 @@
 
-![](/Users/joaosantos/Documents/Android/Pessoal/dio-lab-open-source/img/pic.png)
+![](/img/pic.png)
 
 ## **João Santos**
 
